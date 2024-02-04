@@ -1,0 +1,8 @@
+{
+	  "name": "colorboy",
+	    "logo": "https://pbs.twimg.com/profile_images/1610944082540654592/EoflKrmO_400x400.jpg",
+	      "rpc_url": "http://103.252.119.49:9944",
+	        "explorer_url": "http://103.252.119.49:4000",
+		  "metrics_endpoint": "http://103.252.119.49:9615/metrics",
+		    "id": "5a8287de-ce61-40c9-b11d-aa0b172f7b08"
+}
